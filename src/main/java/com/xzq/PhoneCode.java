@@ -22,7 +22,7 @@ public class PhoneCode {
                 System.out.println("验证码错误");
             }
         }else {
-            System.out.println("验证码已经过期");
+            System.out.println("验证码已经过期1111");
             System.out.println("验证码已经过期");
             System.out.println("hotfix");
         }
